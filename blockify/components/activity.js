@@ -8,6 +8,7 @@ const styles = {
   title: `flex items-center justify-between mb-10`,
   profileAvatarContainer: `w-14 h-14 rounded-full -ml-2 mr-3`,
   activityCard: `flex mb-6`,
+
 }
 
 const Activity = () => {

@@ -26,4 +26,5 @@ const styles = {
   profileAvatarContainer: `w-14 h-14 rounded-full -ml-2 mr-3`,
   activityCard: `flex mb-6 cursor-pointer hover:opacity-50`,
   avatar: `rounded-full object-cover`,
+
 }
