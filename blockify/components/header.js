@@ -24,12 +24,12 @@ const Header = ({ setShowUploadMusic }) => {
     <div className={style.header}>
       <div className={style.headerWrapper}>
         <div className='flex items-center'>
-          <div className={style.arrowButton}>
+          {/* <div className={style.arrowButton}>
             <img alt='' src='assets/chevronLeft.svg' width={20} height={20} />
           </div>
           <div className={style.arrowButton}>
             <img alt='' src='assets/chevronRight.svg' width={20} height={20} />
-          </div>
+          </div> */}
         </div>
 
         <div className={style.headerRight}>
@@ -39,7 +39,7 @@ const Header = ({ setShowUploadMusic }) => {
             <div className={style.profileAvatarContainer}>
               <img alt='' src='assets/avatar.jpg' className='rounded-full' />
             </div>
-            <p>Your Name</p>
+            <p>BAIBHAV</p>
           </div>
         </div>
       </div>
@@ -53,21 +53,21 @@ const Header = ({ setShowUploadMusic }) => {
         />
 
         <div className='ml-5'>
-          <div>ALBUM</div>
-          <div className={style.title}>Your Album</div>
+          <div>SPACE</div>
+          <div className={style.title}>Your Own Music Space</div>
           <div className='flex items-center mt-5'>
             <div className={style.profileAvatarContainer}>
               <img alt='' src='assets/avatar.jpg' className='rounded-full' />
             </div>
             <p>
-              <span className='text-bold'>SteamBeats</span> • 2020 • 46 songs, 3
+              <span className='text-bold'>BLOCKIFY</span> • 2022 • 46 songs, 3
               hr 20 min
             </p>
           </div>
         </div>
       </div>
 
-      <div className={style.controlsContainer}>
+      {/* <div className={style.controlsContainer}>
         <div className={style.playButton}>
           <img alt='' src='assets/play.svg' width={30} height={30} />
         </div>
@@ -80,7 +80,7 @@ const Header = ({ setShowUploadMusic }) => {
         <div className={style.iconContainer}>
           <img alt='' src='assets/more.svg' width={30} height={30} />
         </div>
-      </div>
+      </div> */}
     </div>
   )
 }
