@@ -92,7 +92,7 @@ export const Payment = () => {
 }
 
 const styles = {
-  main: `g-clip-padding backdrop-filter backdrop-blur-xl bg-opacity-60 border border-gray-200`,
+  main: `w-screen h-screen bg-white text-black flex flex-col justify-center items-center`,
   button: `bg-[#22C55E] m-3 text-white font-bold py-4 px-7 rounded-full hover:opacity-70 transition`,
   text: `text-4xl text-black mb-10`,
   buttons: `flex items-center`,

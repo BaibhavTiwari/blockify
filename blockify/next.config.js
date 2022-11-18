@@ -6,11 +6,10 @@ const nextConfig = {
   },
   images: {
     domains: [
-      'kajabi-storefronts-production.kajabi-cdn.com',
+      'kajabi-storefronts-production.kajabi-cd.com',
       'upload.wikimedia.org',
       'i.ytimg.com',
-      'angartwork.akamaized.net',
-      'avatars.dicebear.com'
+      'angartwork.akamaized.net'
     ],
   },
 }
