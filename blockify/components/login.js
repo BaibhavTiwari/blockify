@@ -19,10 +19,6 @@ const Login = () => {
 export default Login
 
 const styles = {
-  loginPage: `  background-color: #0f0e13;
-    background-image:
-        radial-gradient(at 0% 0%, hsla(253, 16%, 7%, 1) 0, transparent 50%),
-        radial-gradient(at 50% 0%, hsla(225, 39%, 30%, 1) 0, transparent 50%),
-        radial-gradient(at 100% 0%, hsla(339, 49%, 30%, 1) 0, transparent 50%),w-screen h-screen bg-white flex justify-center flex-col items-center`,
-  text: `text-4xl text-black mb-10`,
+  loginPage: `w-screen h-screen bg-linear-gradient(to bottom, #20aaa7b0, #534e4eb0,#0b5e70 flex justify-center flex-col items-center`,
+  text: `text-4xl style-italic text-white mb-10`,
 }
