@@ -46,8 +46,7 @@ const Header = ({ setShowUploadMusic }) => {
 
       <div className={style.playlistTextContent}>
         <Image
-          alt=''
-          src='https://angartwork.akamaized.net/webp/?id=150949021&size=296'
+          src="https://avatars.dicebear.com/api/avataaars/23455667890-oiuyuyyttrrewwqasddfghjkl%3B'%2F.%2CmbvcxxzC%3BOBIUBBBB%3B%20KB%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20N%20%20%20%20%20%20%20%20%20%20%20%20%20%20.svg"
           width={220}
           height={220}
         />

@@ -53,15 +53,15 @@ const UploadModal = ({
   return (
     <div className={style.wrapper}>
       <div className={style.title}>Upload New Music</div>
-      <input type='file' id='music-file' name='file' />
-      <div className={style.modalButtons}>
+      {/* <input type='file' id='music-file' name='file' /> */}
+      {/* <div className={style.modalButtons}>
         <button
           onClick={uploadClicked}
           className={`${style.button} ${style.createButton}`}
         >
           Upload
         </button>
-      </div>
+      </div> */}
 
       <div className={style.inputField}>
         <div className={style.inputTitle}>Title</div>
