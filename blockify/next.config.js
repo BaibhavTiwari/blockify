@@ -6,7 +6,7 @@ const nextConfig = {
   },
   images: {
     domains: [
-      'kajabi-storefronts-production.kajabi-cd.com',
+      'kajabi-storefronts-production.kajabi-cd.comnpm',
       'upload.wikimedia.org',
       'i.ytimg.com',
       'angartwork.akamaized.net'
