@@ -11,7 +11,8 @@ const nextConfig = {
       'upload.wikimedia.org',
       'i.ytimg.com',
       'avatars.dicebear.com',
-      'angartwork.akamaized.net'
+      'angartwork.akamaized.net',
+      'soundcloud.com'
     ],
   },
 }
