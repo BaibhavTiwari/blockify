@@ -19,6 +19,7 @@ const UploadButton = ({ setShowUploadMusic }) => {
         Upload music
       </div>
     </div>
+
   )
 }
 
