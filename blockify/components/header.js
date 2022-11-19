@@ -53,7 +53,7 @@ const Header = ({ setShowUploadMusic }) => {
         />
 
         <div className='ml-5'>
-          <div>SPACE</div>
+          <div>With BLOCKIFY Create,</div>
           <div className={style.title}>Your Own Music Space</div>
           <div className='flex items-center mt-5'>
             <div className={style.profileAvatarContainer}>

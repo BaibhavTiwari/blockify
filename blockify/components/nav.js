@@ -1,7 +1,8 @@
 import NavLink from './navLink'
 
 const styles = {
-  nav: `bg-black h-screen w-96 p-5 py-10 `,
+  nav: `w-96 p-5 py-10 `,
+  background: '#a099ff',
   link: `hover:text-[#fff]`,
   playlistName: `text-[#b3b3b3] cursor-default text-sm hover:text-[#fff]`
 }
